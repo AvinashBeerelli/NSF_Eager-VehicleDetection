@@ -1,7 +1,7 @@
 Multi Vehicle Detection
 
 The Repository is for Multi Vehicle Dectection using YOLOV4 and Darknet framework.
-The repo has the darknet framewrok written in C and CUDA.
+The repo has the darknet framework written in C and CUDA.
 
 This repo can also be used for custom object detection using YOLOV4.
 
